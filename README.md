@@ -1,6 +1,6 @@
 # Research: in honour of which women streets are named in Russia
 
-Research for the publication Glasnaya on gender naming of streets in Russia. 
+Research for `glasnaya.media` on gender naming of streets in Russia. 
 
 > 5 streets are named in honour of women, 300 - in honour of men. This is the standard toponymic layout for an average Russian city. Sometimes there are slightly more women, sometimes there are slightly fewer, but the ratio reflects the state of affairs: women's names are perpetuated in names many times, ten times less often than men's.
 
